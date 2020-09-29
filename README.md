@@ -1,6 +1,6 @@
 #  SwiftUI-ToggleStyle
 
-<img width="500" alt="image" src="https://raw.githubusercontent.com/mszmagic/SwiftUI-ToggleStyle/main/demo-image.png">
+<img width="500" alt="image" src="https://github.com/mszmagic/SwiftUI-ToggleStyle/blob/master/demo-image.png?raw=true">
 
 アプリケーション内でスイッチのカスタムスタイルをデザインする方法を記事内の3例で知りましょう：
 - デフォルトスタイルのスイッチ
